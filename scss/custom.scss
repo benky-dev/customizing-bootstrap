@@ -22,7 +22,6 @@ $body-bg: #f2f2f2;
 // Adjust nav link hover color here
 
 $navbar-dark-hover-color: #a04add;
-$navbar-dark-color: #f2f2f2;
 
 // Typography
 // Change font family for base text
@@ -49,5 +48,5 @@ $h6: 1rem;
 // Target .navbar-brand and change font-family to use 'Libre Baskerville'.
 
 .navbar-brand {
-  $font-family: "Libre Baskerville", serif;
+  font-family: "Libre Baskerville", serif;
 }
